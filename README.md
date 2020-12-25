@@ -5,10 +5,10 @@ Program that logs into Instagram account, compares Follower and Following list a
 Inputs alphabetically sorted list into txt file 
 
 Requirements:
-Selenium
-Chrome Webdriver (Used Google Chrome for Web Browser)
-Instagram Account Log In Info (username, password)
-Python and pip
+Selenium,
+ Chrome Webdriver (Used Google Chrome for Web Browser),
+ Instagram Account Log In Info (username, password),
+ Python and pip
 
 Only works with screen expanded to certain size
 
